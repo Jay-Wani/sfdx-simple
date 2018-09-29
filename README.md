@@ -61,6 +61,3 @@ For details on using sfdx-simple, please review the [Salesforce DX Developer Gui
 * **.project**:  Required by the Eclipse IDE.  Describes the Eclipse project. 
 * **.gitignore**:  Optional Git file. Specifies intentionally untracked files that you want Git (or in this case GitHub) to ignore.
 
-## Issues
-
-Please log issues related to this repository [here](https://github.com/forcedotcom/sfdx-simple/issues).
